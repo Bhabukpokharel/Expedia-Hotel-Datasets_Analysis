@@ -5,4 +5,3 @@ The data is anonymized and almost all the fields are in numeric format. The data
 
 Analysis  Most Countries the customer travel from and MOst Coutries the custermer travel to
 
-https://github.com/Bhabukpokharel/Expedia-Hotel-Datasets_Analysis/blob/master/Notebook/travel_to_from.pnga
